@@ -5,5 +5,8 @@ How to make a boom
 Class Constitution
  - This copy is the most up to date I could find (Upload if you have another), Which was written in 2007, and was in use at least to 2010? probably further
 
+Measurement Certificate 
+- Compiled measurement rules form the constitution, Newer i think
+
 TODO - CAD file
  - Making a cad file right now, Will upload once done
